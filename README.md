@@ -4,7 +4,7 @@
 
 The Financial Translation Engine is an enterprise grade JavaFX application that performs real time currency conversion through the Exchange Rate API. It provides a modern banking interface, supports multiple international currencies, validates user input securely, and maintains conversion history with a professional user experience.
 
-This project was developed as part of the **DecodeLabs Internship Program** to demonstrate JavaFX development, API integration, Object Oriented Programming (OOP), exception handling, and enterprise level desktop application design.
+This project was developed as part of the **CloudExify Internship Program** to demonstrate JavaFX development, API integration, Object Oriented Programming (OOP), exception handling, and enterprise level desktop application design.
 
 ## Features
 
